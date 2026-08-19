@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Bài 2</title>
+    </head>
+    <body>
+        <h1>Bài 2</h1>
+        <p>Đây là bài 2</p>
+    </body>
+    <div>
+        <!--Chi so trên -->
+        x<sup>2</sup>
+        <!--Chi so dưới -->
+        <br>
+        x<sub>2</sub>
+    </div>
+    <div>
+        <!--Link to bai 1-->
+        <a href="../Bài1/idex.html">Xem bai 1</a>
+        <br>
+        <!--Link to github-->
+        <a href="https://github.com/ctrvn">github</a>
+    </div>
+    <div>
+        <img src="../Anh/pug.jpg" alt="pug" width="50" height="50">       
+    </div>
+    <div>
+        <table border="1">
+            <caption>Danh sách sinh viên</caption>
+            <tr>
+                <th>STT</th>
+                <th colspan="2">Họ và Tên</th>
+                <th>MÃ sinh vien</th>
+                <th>Lớp</th>
+                <th>Khóa</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Lê Công</td>
+                <td>Trưởng</td>
+                <td>22210500552</td>
+                <td>DCCTCT67</td>
+                <td rowspan = "3">k67</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Tiue puhn</td>
+                <td>Trưởng</td>
+                <td>22210500552</td>
+                <td>DCCTCT67</td>
+            </tr>
+            <tr>
+                 <td>3</td>
+                <td>Tiue puhn</td>
+                <td>Trưởng</td>
+                <td>22210500552</td>
+                <td>DCCTCT67</td>
+                
+            </tr>
+        </table>
+    </div>
+    <footer>
+        <p>Đây là Lê Công Trưởng</p>
+    </footer>
+</html>
